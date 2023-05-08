@@ -1,1 +1,2 @@
-# AirBnB_clone_v4
+# AirBnB Clone
+Coded by Kelvin Chaula <kelvinsdechaw@gmail.com>
